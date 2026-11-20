@@ -1,4 +1,4 @@
-"""Terminal chat with the same brain and database, for testing without Telegram.
+"""Terminal chat with the same brain and database, for testing without Discord.
 
 Run: python cli.py      Commands: /memory  /forget  /quit
 """
